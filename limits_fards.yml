@@ -3,7 +3,7 @@
     root
   vars:
     kernel_pid_max: 196608
-    nproc: 196600
+    nproc: 192000
     username: rpasvnp
     
   tasks:
